@@ -1,0 +1,13 @@
+(footprint "Mark" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd board_only exclude_from_bom)
+  (fp_text reference "REF**" (at 3 3 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ad27f37f-8be4-48c8-9ae1-c83684f44131)
+  )
+  (fp_text value "Mark" (at 3 4.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 115688a5-9af8-4243-8db0-874a7e305f76)
+  )
+  (pad "1" smd circle (at 0 0) (size 1 1) (property pad_prop_fiducial_glob) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 33f63cbe-7ee7-40d1-bfec-00012d681987))
+)

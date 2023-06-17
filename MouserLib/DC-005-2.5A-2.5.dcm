@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DC-005-2.5A-2.5
+D DC connector pin W14.2xD9.0xH11, inner core 2.5, 2.5a 24V
+K
+F http://www.helloxkb.com/public/images/pdf/DC-005-2.5A-2.5-SMT.pdf
+$ENDCMP
+#
+#End Doc Library
