@@ -1,0 +1,22 @@
+# kicad_tools
+
+- 3DLib
+  - 部分自建和下载的3D模型
+- bom
+  - 生成bom的配置文件
+- colour
+  - kicad的颜色配置文件，需要复制到/home/elvin/.config/kicad/7.0/colors/
+- digikey-kicad-library-master
+  - 得捷电子库
+- footprints
+  - 自建封装库
+- MouserLib
+  - 贸泽电子库
+- SparkFun-KiCad-Libraries-master
+  - SparkFun 公司开发的一个 KiCad 的元件库库
+- symbols
+  - 自建原理图符号库
+- template
+  - 自建的工程模板
+- 工艺要求说明书.xls
+  - PCB工艺要求说明书
